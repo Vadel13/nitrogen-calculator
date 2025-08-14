@@ -1,2 +1,0 @@
-# nitrogen-calculator
-КЦА калькулятор
